@@ -1,4 +1,4 @@
-package julia.week1.week1;
+package julia.week1;
 
 public class DivideWithoutOperator {
 
