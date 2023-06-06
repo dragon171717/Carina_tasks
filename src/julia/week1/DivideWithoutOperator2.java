@@ -1,7 +1,8 @@
-package aaron.week_1;
+package julia.week1;
 
-public class DivisionWithoutOperator {
+public class DivideWithoutOperator2 {
     public static void main(String[] args) {
+
         //Write a method that can divide two numbers without using division operator
         divides(6,3);
         divides(4,2);
@@ -23,7 +24,8 @@ public class DivisionWithoutOperator {
         System.out.println(count+" and remainder is "+num1);
     }
 }
-/*
- Numbers - Divide without / operator:
-Write a method that can divide two numbers without using division operat
- */
+
+
+
+
+
