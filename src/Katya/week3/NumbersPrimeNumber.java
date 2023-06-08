@@ -10,7 +10,7 @@ public class NumbersPrimeNumber {
 
     public static boolean isPrimeNumber(int num) {
 
-        if (num < 2) {
+        if (num < 2) { // numbers are less than 2 ara not prime numbers
             return false;
         }
         for (int i = 2; i < num; i++) {
