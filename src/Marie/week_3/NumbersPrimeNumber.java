@@ -1,4 +1,4 @@
-package week_3;
+package Marie.week_3;
 
 /**
  *  Numbers -- PrimeNumber
