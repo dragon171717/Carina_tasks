@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class NUniqueIntegersThatSumUpTo0 {
 
+
 //            2️⃣  NUniqueIntegersThatSumUpTo0
 //    Write a function that, given an integer N (1 < N < 100), returns an array containing N unique
 //    integers that sum up to 0.
